@@ -28,10 +28,12 @@ Este proyecto está licenciado bajo la Licencia Pública General de GNU, versió
 
 ## Autor
 grisuno
-Contribuciones
+
+## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
 
-Haz un fork del proyecto.
+### Haz un fork del proyecto.
+
 Crea una nueva rama (git checkout -b feature/nueva-caracteristica).
 Realiza los cambios necesarios y haz commits (git commit -m 'Añadir nueva característica').
 Empuja los cambios a tu rama (git push origin feature/nueva-caracteristica).
