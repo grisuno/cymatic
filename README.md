@@ -6,6 +6,8 @@
 
 Cymatc es un visualizador de patrones cymáticos por frecuencia utilizando Python. El proyecto utiliza `tkinter` para la interfaz gráfica y `matplotlib` para dibujar los patrones cymáticos.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2Z73AV)
+
 ## Requisitos
 
 Asegúrate de tener las siguientes bibliotecas instaladas:
