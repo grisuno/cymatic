@@ -6,4 +6,7 @@
 
 ## External Imports
 
-- `app.py` -> matplotlib.pyplot, numpy, tkinter
+- `app.py` -> `matplotlib.pyplot`
+- `app.py` -> `numpy`
+- `app.py` -> `tkinter`
+- `app.py` -> `tkinter`
